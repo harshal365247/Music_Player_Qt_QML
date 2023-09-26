@@ -1,9 +1,11 @@
 # Music_Player_Qt_QML
 A music player application created using Qt/QML and C++. The music player fetches the songs from Jamendo platform using Jamendo developer API. 
 
-## Sample Video
+## Sample
 
-![screen_record](sample.mp4)
+![screenshots](sample.png)
+
+Youtube Sample Video : https://youtu.be/l6PWAS9-kz8?si=SY84pf7o8YITHQmZ
 
 ## Dependencies 
 K-Lite Codec Pack should be installed in the system and it's path should be added to the environment variables.
