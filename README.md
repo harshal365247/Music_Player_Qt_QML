@@ -3,7 +3,7 @@ A music player application created using Qt/QML and C++. The music player fetche
 
 ## Sample
 
-![screenshots](sample.png)
+![screenshot](screenshots/sample.png)
 
 Youtube Sample Video : https://youtu.be/l6PWAS9-kz8?si=SY84pf7o8YITHQmZ
 
