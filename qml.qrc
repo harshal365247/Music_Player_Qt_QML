@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/next_icon.png</file>
+        <file>images/play_icon.png</file>
+        <file>images/previous_icon.png</file>
+        <file>images/beethoven.png</file>
+        <file>images/add_icon.png</file>
+        <file>images/trash_icon.png</file>
+        <file>images/menu_icon.png</file>
+        <file>images/remove_icon.png</file>
+        <file>images/search_icon.png</file>
+        <file>images/loading_gif.gif</file>
+        <file>images/pause_icon.png</file>
+        <file>images/app_icon.png</file>
+        <file>qml/AudioInfoBox.qml</file>
+        <file>qml/main.qml</file>
+        <file>qml/PlayListPanel.qml</file>
+        <file>qml/SearchField.qml</file>
+        <file>qml/SearchPanel.qml</file>
+        <file>qml/TextButton.qml</file>
+    </qresource>
+</RCC>
